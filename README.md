@@ -3,6 +3,10 @@
 </p>
 
 # vue-amap
+
+1. 从[ElemeFE/vue-amap](https://github.com/ElemeFE/vue-amap) fork 至本仓库  By Bale 2020年8月31日11:55:42
+
+
 [![Build Status](https://travis-ci.org/ElemeFE/vue-amap.svg?branch=master)](https://travis-ci.org/ElemeFE/vue-amap)
 [![npm package](https://img.shields.io/npm/v/vue-amap.svg)](https://www.npmjs.org/package/vue-amap)
 [![NPM downloads](http://img.shields.io/npm/dm/vue-amap.svg)](https://npmjs.org/package/vue-amap)
